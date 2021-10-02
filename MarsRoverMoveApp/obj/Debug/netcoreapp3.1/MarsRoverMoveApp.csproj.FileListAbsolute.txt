@@ -1,0 +1,12 @@
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/bin/Debug/netcoreapp3.1/MarsRoverMoveApp.deps.json
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/bin/Debug/netcoreapp3.1/MarsRoverMoveApp.runtimeconfig.json
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/bin/Debug/netcoreapp3.1/MarsRoverMoveApp.runtimeconfig.dev.json
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/bin/Debug/netcoreapp3.1/MarsRoverMoveApp.dll
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/bin/Debug/netcoreapp3.1/MarsRoverMoveApp.pdb
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.AssemblyInfoInputs.cache
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.AssemblyInfo.cs
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.csproj.CoreCompileInputs.cache
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.dll
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.pdb
+/Users/canerarifoglu/Desktop/Projects/MarsRoverMoveApp/MarsRoverMoveApp/obj/Debug/netcoreapp3.1/MarsRoverMoveApp.genruntimeconfig.cache
